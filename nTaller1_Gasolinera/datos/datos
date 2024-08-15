@@ -1,0 +1,13 @@
+ tipo:diesel:12000:8998.0
+tipo:acpm:17000:19980.76423529412
+tipo:extra:19800:7989.0
+tipo:corriente:15600:0.0
+surtidor:pepito:diesel:0.0:acpm:0.0:extra:11.0:corriente:0.0
+surtidor:maria:diesel:2.0:acpm:14.529411764705882:extra:0.0:corriente:33371.0
+surtidor:maria:diesel:0.0:acpm:0.17647058823529413:extra:0.0:corriente:12.0
+surtidor:sara:diesel:0.0:acpm:4.5298823529411765:extra:0.0:corriente:0.0
+empleado:leo:0
+empleado:sara:77008
+empleado:andres:0
+empleado:maria:521048800
+empleado:pepito:217800
